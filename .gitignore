@@ -1,0 +1,19 @@
+# Watchman
+.watchmanconfig
+
+# Node
+node_modules
+*.log
+.nvm
+/bots/node_modules/
+
+# OS X
+.DS_Store
+
+#Xcode
+/ios/ContentTransfer/VZ\ Transfer/contenttransfer.xcodeproj/project.xcworkspace/*
+/ios/ContentTransfer/VZ\ Transfer/contenttransfer.xcodeproj/xcshareddata/*
+/ios/ContentTransfer/VZ\ Transfer/contenttransfer.xcodeproj/xcuserdata/*
+/ios/ContentTransfer/VZ\ Transfer/contenttransfer.xcodeproj/project.pbxproj
+/ios/ContentTransfer/VZ\ Transfer/build/
+/ios/build
